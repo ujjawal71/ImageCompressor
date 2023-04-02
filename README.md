@@ -3,9 +3,9 @@
  #For gradel
 
  
-dependencies {
+        dependencies {
 	        implementation 'com.github.ujjawal71:ImageCompressor:v1.0.0'
-	}
+	            }
  
  #For maven
         
