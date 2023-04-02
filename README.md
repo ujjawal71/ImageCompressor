@@ -7,7 +7,7 @@
 
  ```gradle
     dependencies {
-	   implementation 'com.github.ujjawal71:ImageCompressor:1.0.2'
+	   implementation 'com.github.ujjawal71:ImageCompressor:1.0.3'
  }
 ```
  
@@ -17,6 +17,6 @@
      <dependency>
 	    <groupId>com.github.ujjawal71</groupId>
 	    <artifactId>ImageCompressor</artifactId>
-	    <version>1.0.2</version>
+	    <version>1.0.3</version>
 	</dependency>
 ```	
