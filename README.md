@@ -3,18 +3,20 @@
 
 > Step 2. Add the dependency
  
- > For gradel
+ > Android
 
+ ```gradle
+    dependencies {
+	   implementation 'com.github.ujjawal71:ImageCompressor:v1.0.0'
+ }
+```
  
-        dependencies {
-	        implementation 'com.github.ujjawal71:ImageCompressor:v1.0.0'
-	            }
+ >Spring boot
  
- > For maven
-        
-	
-	<dependency>
+```gradle
+     <dependency>
 	    <groupId>com.github.ujjawal71</groupId>
 	    <artifactId>ImageCompressor</artifactId>
 	    <version>v1.0.0</version>
 	</dependency>
+```	
