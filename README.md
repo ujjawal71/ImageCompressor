@@ -4,7 +4,7 @@
 
  
 dependencies {
-	        implementation 'com.github.ujjawal71:ImageCompressor:Tag'
+	        implementation 'com.github.ujjawal71:ImageCompressor:v1.0.0'
 	}
  
  #For maven
@@ -13,5 +13,5 @@ dependencies {
 	<dependency>
 	    <groupId>com.github.ujjawal71</groupId>
 	    <artifactId>ImageCompressor</artifactId>
-	    <version>Tag</version>
+	    <version>v1.0.0</version>
 	</dependency>
