@@ -8,7 +8,9 @@ dependencies {
 	}
  
  #For maven
-  <dependency>
+        
+	
+	<dependency>
 	    <groupId>com.github.ujjawal71</groupId>
 	    <artifactId>ImageCompressor</artifactId>
 	    <version>Tag</version>
