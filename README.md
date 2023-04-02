@@ -1,13 +1,14 @@
 # ImageCompressor
+> Step 1. Add the jitpack repository to your build file
  
- #For gradel
+ > For gradel
 
  
         dependencies {
 	        implementation 'com.github.ujjawal71:ImageCompressor:v1.0.0'
 	            }
  
- #For maven
+ > For maven
         
 	
 	<dependency>
